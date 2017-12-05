@@ -1,0 +1,105 @@
+var friends = [
+{
+    "name":"Ahmed",
+    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  }
+,
+  {
+    "name":"Justin",
+    "photo":"https://media.vanityfair.com/photos/58b7042498e5492a6660a400/master/w_768,c_limit/justin-bieber-fashion-moments-ss18.jpg",
+    "scores":[
+        1,
+        5,
+        2,
+        2,
+        1,
+        5,
+        4,
+        1,
+        2,
+        5
+      ]
+  }
+,
+  {
+    "name":"Jerry",
+    "photo":"https://media.vanityfair.com/photos/54284a9e06f23911475729f9/master/w_768,c_limit/image.jpg",
+    "scores":[
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3,
+        2,
+        3
+      ]
+  }
+,
+  {
+    "name":"Melanie",
+    "photo":"https://yt3.ggpht.com/-CgpObSTU0pQ/AAAAAAAAAAI/AAAAAAAAAAA/fT4_44pFnoI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "scores":[
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+  }
+,
+  {
+    "name":"Lavar",
+    "photo":" http://images.performgroup.com/di/library/omnisport/13/2/lavar-ball_urbyu861ulf513ylumvkf0yx2.jpg?t=1447559029&w=960&quality=70",
+    "scores":[
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ]
+  }
+,
+  {
+    "name":"Lily",
+    "photo":"   https://scontent-sjc2-1.cdninstagram.com/t51.2885-15/e35/22352381_347582025667042_4139486215709655040_n.jpg",
+    "scores":[
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ]
+  }
+]
+
+module.exports = friends;
